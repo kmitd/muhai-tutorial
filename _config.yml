@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: HIKE Tutorial
-description: Using the CommonKADS KE methodology to structure Hybrid Intelligence scenarios 
+title: MUHAI Tutorial
+description: Meaning and Understanding in Human-centric AI -- Tutorial at EKAW2024
