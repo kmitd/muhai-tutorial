@@ -11,8 +11,11 @@ In this tutorial, participants will learn how to build human-centric AI agents u
 ## Tentative Program
 
 09:00-10:00 : Introduction to MUHAI. Participants get to know the MUHAI project, hypotheses and proposed solutions (frontal session). 
+
 10:00-10:30 : Demo market. Quick round of demo showcase (frontal presentations).
+
 11:00-12:30 : Interactive hands-on session (walk around). 
+
 12:30-13:00 : Conclusive remarks, collection of feedback, future steps (panel/discussion). 
 
 ## Can I participate?
