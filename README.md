@@ -8,7 +8,7 @@
 
 In this tutorial, participants will learn how to build human-centric AI agents using the MUHAI approach, through a mix of showcases related to understanding everyday activities in the real world and hands-on exercises to practise with the solutions developed within the project. We focus on the hybrid integration of symbolic AI (including e.g. ontological modelling of narratives, automated knowledge extraction from large-scale knowledge graphs, storage of episodic and semantic memories) and subsymbolic AI methods (language understanding, speech processing, reinforced learning, active learning, etc.).
 
-## Tentative Program
+## Program
 
 09:00-10:00 : Introduction to MUHAI. Participants get to know the MUHAI project, hypotheses and proposed solutions (frontal session). 
 
@@ -17,6 +17,8 @@ In this tutorial, participants will learn how to build human-centric AI agents u
 11:00-12:30 : Interactive hands-on session (walk around). 
 
 12:30-13:00 : Conclusive remarks, collection of feedback, future steps (panel/discussion). 
+
+You can see the [tutorial's slides here](https://docs.google.com/presentation/d/1L-J-t6IftsUC3AmM5hmUNOHK2-Uqi-r87zgzG_p2t5M/edit?usp=sharing).
 
 ## Can I participate?
 
